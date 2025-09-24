@@ -36,10 +36,7 @@ Visualization: Power BI Charts, Tables, Cards, KPIs
 PROJECT CT_CSI_PB_5413.pbix → Main dashboard file
 
 📸 Dashboard Preview
-
-(Add screenshots of the dashboard here for better visualization)
-
-![Dashboard Preview](https://github.com/utkarshsrivastava22062001-coder/Product-Dashboard/blob/main/Screenshot%202025-09-24%20114314.png)
+(https://github.com/utkarshsrivastava22062001-coder/Product-Dashboard/blob/main/Screenshot%202025-09-24%20114314.png)
 
 📑 Use Cases
 
