@@ -39,7 +39,7 @@ PROJECT CT_CSI_PB_5413.pbix → Main dashboard file
 
 (Add screenshots of the dashboard here for better visualization)
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](https://github.com/utkarshsrivastava22062001-coder/Product-Dashboard/blob/main/Screenshot%202025-09-24%20114314.png)
 
 📑 Use Cases
 
